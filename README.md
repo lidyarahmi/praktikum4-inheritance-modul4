@@ -1,1 +1,1 @@
-# praktikum4-inheritance-modul4
+# praktikumpemrograman2-inheritance-modul4
